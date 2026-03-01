@@ -39,6 +39,6 @@ By using the **Google Gemini API** via REST calls with Bearer token authenticati
 
 📘 Whether you're building an internal admin tool or a student-facing portal, adding an AI layer to your search functionality is a total game-changer for user experience.
 
-👉 **Explore the Project & Code:** [Your Link Here]
+👉 **Explore the Project & Code:** https://medium.com/@sachinverma_78701/build-a-talk-to-your-data-agent-with-spring-boot-gemini-0fd781497afd
 
 Happy Coding! 🚀
